@@ -28,7 +28,7 @@ A Social Media Post Management Dashboard built with React.js, Redux Toolkit, Tai
 - **Redux Toolkit**: Manages the global state for posts, comments, likes, and search functionality.
 
 ### 6. UI Considerations:
-- The styling is done using **Tailwind CSS**,  with optional usage of **Material UI** for basic layout and components.
+- The styling is done using **Tailwind CSS**, with optional usage of **Material UI** for basic layout and components.
 
 ---
 
