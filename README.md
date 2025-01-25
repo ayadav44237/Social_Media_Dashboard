@@ -1,6 +1,6 @@
 # Social Media Post Management Dashboard
 
-A Social Media Post Management Dashboard built with React.js, Redux Toolkit, Tailwind CSS, and Material UI. The application simulates backend functionality with local state using Redux Toolkit or a mock API (jsonplaceholder)  to handle CRUD operations for posts, likes, comments, and search functionality.
+A Social Media Post Management Dashboard built with React.js, Redux Toolkit, Tailwind CSS, and Material UI. The application simulates backend functionality with local state using Redux Toolkit or a mock API to handle CRUD operations for posts, likes, comments, and search functionality.
 
 ## Features
 
