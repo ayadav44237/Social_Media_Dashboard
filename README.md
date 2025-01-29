@@ -11,7 +11,7 @@ A Social Media Post Management Dashboard built with React.js, Redux Toolkit, Tai
 - **Delete Post**: Enables users to delete posts with a confirmation prompt.
 
 ### 2. Like and Comment Functionality:
-- **Like Post**: Adds a like button for each post to track likes.
+- **Like Post**: Add a like button for each post to track likes.
 - **Comment on Post**: Users can add comments to posts.
 - **Nested Comments**: Supports one level of nested comments (comments on posts, but no replies to comments).
 - **Edit Comment**: Allows users to edit their comments.
