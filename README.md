@@ -5,7 +5,7 @@ A Social Media Post Management Dashboard built with React.js, Redux Toolkit, Tai
 ## Features
 
 ### 1. Post Management:
-- **Display Posts**: Shows a list of posts with text content.
+- **Display Posts**: Shows a list of posts with text-content.
 - **Add Post**: Allows users to add new posts containing only text.
 - **Edit Post**: Users can edit the text of existing posts.
 - **Delete Post**: Enables users to delete posts with a confirmation prompt.
